@@ -1,4 +1,4 @@
-Projeto da UC de Sistemas Embebidos
+Projeto da UC de Sistemas Embebidos (3ºano Licenciatura)
 
 Simulação das luzes de um veículo usando o FreeRTOS
 
